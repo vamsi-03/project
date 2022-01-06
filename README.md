@@ -6,4 +6,4 @@
   <li>we can protect farmers as well as customers</li>
 
  <h4>Here you can see the partially developed web-application related to the project</h4>
- <a href="https://github.com/vamsi-03/project">Ecommerce website for farmers</a>
+ <a href="https://github.com/vamsi-03/wt-mini-project">Ecommerce website for farmers</a>
